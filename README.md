@@ -25,9 +25,8 @@
 * Cloud Pricing
 
 ## Day 3 (Thursday)
-* Operating Systems: History, UNIX family: Linux, BSD, MacOS, Android
-* iOS, Windows
-* Virtualization & Virtual Machines
+* Operating Systems: History, UNIX family: Linux, BSD, MacOS, Android, iOS, Windows
+* Virtualization, Virtual Machines, and AMIs (Amazon Machine Images)
 * Databases: Relational (SQL) and Non-relational (NoSQL)
 * Object Storage (S3 / Simple Storage Service)
 * x86 vs ARM (in light details)
