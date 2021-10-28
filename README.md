@@ -7,7 +7,7 @@
 * No class today.
 
 ## Day 1 (Tuesday)
-
+* Administration
 * Details about the Internet / architecture
 * Who are you?
 * What is the cloud?
@@ -15,19 +15,25 @@
 * Infrastructure as a Service (IaaS)
 * Platform as a Service (PaaS)
 * Software as a Service (SaaS)
+* Operating System overview
+* Version Control Basics & GitHub
+* Using Discord
+* Installing Python & Visual Studio Code
 
 ## Day 2 (Wednesday)
+* Hardware & Brief history of computers
 * CPU (Cores/Threads)
-* RAM
+* RAM / Memory
 * GPU (lots of cores)
 * SSD/HDD
 * Choosing components
-* Cloud Pricing
+* Cloud Pricing: [AWS Pricing Calculator](https://calculator.aws)
 
 ## Day 3 (Thursday)
 * Operating Systems: History, UNIX family: Linux, BSD, MacOS, Android, iOS, Windows
 * Virtualization, Virtual Machines, and AMIs (Amazon Machine Images)
 * Databases: Relational (SQL) and Non-relational (NoSQL)
+* Shared Responsibility Model Basics
 * Object Storage (S3 / Simple Storage Service)
 * x86 vs ARM (in light details)
 * Ping, Traceroute
