@@ -41,6 +41,9 @@
 
 ## Day 4 (Friday)
 * Networking Basics (IPv4)
+* Ports
+* HTTP & Request/Response basics
 * Firewalls
+* Python interpreter & HTTP module
 * EC2 Lab Continued - Connecting to it
 
