@@ -8,8 +8,10 @@
 
 ## Day 1 (Tuesday)
 
-* Details about the Internet
-* Cloud vs On-Premises (On-Prem)
+* Details about the Internet / architecture
+* Who are you?
+* What is the cloud?
+* Cloud vs On-Premises (On-Prem) and Hybrid
 * Infrastructure as a Service (IaaS)
 * Platform as a Service (PaaS)
 * Software as a Service (SaaS)
@@ -19,6 +21,7 @@
 * RAM
 * GPU (lots of cores)
 * SSD/HDD
+* Choosing components
 * Cloud Pricing
 
 ## Day 3 (Thursday)
