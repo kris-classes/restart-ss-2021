@@ -3,6 +3,9 @@
 
 # Week 1
 
+## Day 0 (No Class - Labour Day)
+* No class today.
+
 ## Day 1 (Tuesday)
 
 * Details about the Internet
