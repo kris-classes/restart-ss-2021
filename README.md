@@ -47,3 +47,13 @@
 * Python interpreter & HTTP module
 * EC2 Lab Continued - Connecting to it
 
+
+
+# Week 2
+
+## Day 1
+* Virtualbox & Virtual Machines
+* Linux Kernel Overview
+* [Shells](https://en.wikipedia.org/wiki/Unix_shell)
+* [Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
+* Basic Commands
