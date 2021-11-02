@@ -56,4 +56,17 @@
 * Linux Kernel Overview
 * [Shells](https://en.wikipedia.org/wiki/Unix_shell)
 * [Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
-* Basic Commands
+* Basic Commands: man, ls, cd, pwd, mkdir
+* Using sudo
+* Package Management (yum, apt, and others)
+
+
+## Day 2
+* More Basic Commands: touch, cat, more, less, head, tail, cp, rm, mv, rmdir, find
+* Piping data with |
+* Creating files with >
+* Text Editors: vim basics, nano, and mention of gedit/visual studio
+* Understanding output of --help and arguments from manpages.
+* Contents of /sbin directory
+* Symbolic Links
+* [CommandLineFu.com](https://www.commandlinefu.com/commands/browse/sort-by-votes)
