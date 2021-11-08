@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#run this with the command :
+# curl https://raw.githubusercontent.com/kris-classes/restart/main/install.sh | bash
 echo "Starting restart install script"
 echo "installing cowsay"
 sudo yum install -y cowsay
