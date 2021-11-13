@@ -49,7 +49,12 @@
 
 
 
-# Week 2
+# Week 2 Topics
+
+## Core Topics
+
+
+#
 
 ## Day 1
 * Virtualbox & Virtual Machines
@@ -70,3 +75,28 @@
 * Contents of /sbin directory
 * Symbolic Links
 * [CommandLineFu.com](https://www.commandlinefu.com/commands/browse/sort-by-votes)
+
+
+
+
+# Week 3
+
+## Day 1
+
+### Core Topics
+* Basics of using Bash
+* Setting the PATH environment variable and how it works.
+* Creating/removing aliases in Bash.
+* Listing environment variables with `env` and setting them with `export`.
+* Using `which` to get location of a commands.
+* `echo`, 
+* Accessing a variable e.g. `echo $HOME`
+* Installing `git` & `fzf`
+* Running scripts from `./`
+* Making a file *executable* with `chmod +x`
+
+### Supplementary Topics
+* [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+* [GitHub Topics - Bash](https://github.com/topics/bash)
+* [Valve rm -rf bug](https://www.theregister.com/2015/01/17/scary_code_of_the_week_steam_cleans_linux_pcs/)
+
