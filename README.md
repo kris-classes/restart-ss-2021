@@ -86,7 +86,7 @@
 ### Core Topics
 * Basics of using Bash
 * Setting the PATH environment variable and how it works.
-* Creating/removing aliases in Bash.
+* Creating/removing aliases in Bash with the `alias` and `unalias` commands.
 * Listing environment variables with `env` and setting them with `export`.
 * Using `which` to get location of a commands.
 * `echo`, 
@@ -99,4 +99,21 @@
 * [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 * [GitHub Topics - Bash](https://github.com/topics/bash)
 * [Valve rm -rf bug](https://www.theregister.com/2015/01/17/scary_code_of_the_week_steam_cleans_linux_pcs/)
+
+
+## Day 2
+
+### Core Topics
+* Reading and writing Bash/shell scripts.
+* Running commands with `$( )` e.g. `$(whoami)`.
+* File permissions with chmod using symbolic (u+x, g-rw, o+rwx, ug-x, etc.) or octal (700, 444, 111, etc.) notation.
+* Conditionals with `if`, `elif`, and `else`.
+* Persisting aliases and changes to `PATH` by editing `.bashrc`.
+* Using `curl`.
+
+### Supplementary Topics
+* [DevHints.io Bash Cheat Sheet](https://devhints.io/bash)
+* [Cheat.sh - Cheat Sheets](https://cht.sh/)
+* [tldr - Better documentation for  commonly used apps](https://github.com/tldr-pages/tldr)
+
 
