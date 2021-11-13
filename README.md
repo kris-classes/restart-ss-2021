@@ -3,47 +3,42 @@
 
 # Week 1
 
-## Day 0 (No Class - Labour Day)
-* No class today.
-
-## Day 1 (Tuesday)
+## Day 1
 * Administration
 * Details about the Internet / architecture
 * Who are you?
 * What is the cloud?
 * Cloud vs On-Premises (On-Prem) and Hybrid
-* Infrastructure as a Service (IaaS)
-* Platform as a Service (PaaS)
-* Software as a Service (SaaS)
+* Service Types: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)
 * Operating System overview
 * Version Control Basics & GitHub
 * Using Discord
 * Installing Python & Visual Studio Code
 
-## Day 2 (Wednesday)
+## Day 2
 * Hardware & Brief history of computers
 * CPU (Cores/Threads)
 * RAM / Memory
 * GPU (lots of cores)
 * SSD/HDD
-* Choosing components
+* Choosing components when building or deploying a server
 * Cloud Pricing: [AWS Pricing Calculator](https://calculator.aws)
 
-## Day 3 (Thursday)
+## Day 3
 * Operating Systems: History, UNIX family: Linux, BSD, MacOS, Android, iOS, Windows
 * Virtualization, Virtual Machines, and AMIs (Amazon Machine Images)
 * Databases: Relational (SQL) and Non-relational (NoSQL)
 * Shared Responsibility Model Basics
 * Object Storage (S3 / Simple Storage Service)
 * x86 vs ARM (in light details)
-* Ping, Traceroute
+* `ping`, `traceroute` / `tracert`
 * EC2 Lab - Deploying a virtual machine
 
-## Day 4 (Friday)
+## Day 4
 * Networking Basics (IPv4)
-* Ports
+* Ports Basics
 * HTTP & Request/Response basics
-* Firewalls
+* Firewalls (The concept)
 * Python interpreter & HTTP module
 * EC2 Lab Continued - Connecting to it
 
@@ -51,27 +46,22 @@
 
 # Week 2 Topics
 
-## Core Topics
-
-
-#
-
 ## Day 1
 * Virtualbox & Virtual Machines
 * Linux Kernel Overview
 * [Shells](https://en.wikipedia.org/wiki/Unix_shell)
 * [Directory Structure](https://linuxhandbook.com/linux-directory-structure/)
-* Basic Commands: man, ls, cd, pwd, mkdir
-* Using sudo
+* Basic Commands: `man`, `ls`, `cd`, `pwd`, `mkdir`
+* Using `sudo`
 * Package Management (yum, apt, and others)
 
 
 ## Day 2
-* More Basic Commands: touch, cat, more, less, head, tail, cp, rm, mv, rmdir, find
-* Piping data with |
-* Creating files with >
-* Text Editors: vim basics, nano, and mention of gedit/visual studio
-* Understanding output of --help and arguments from manpages.
+* More Basic Commands: `touch`, `cat`, `more`, `less`, `head`, `tail`, `cp`, `rm`, `mv`, `rmdir`, `find`
+* Piping data with `|`
+* Creating files (file redirection) with `>`
+* Text Editors: `vim` basics, `nano`, and mention of gedit/visual studio code
+* Understanding output of `--help` and arguments from manpages.
 * Contents of /sbin directory
 * Symbolic Links
 * [CommandLineFu.com](https://www.commandlinefu.com/commands/browse/sort-by-votes)
@@ -79,11 +69,19 @@
 
 ## Day 3
 * Working with `jobs`: Ctrl-Z (suspend), `fg`, `bg`, `jobs`
+* Working with users/groups
+* Understanding `/etc/passwd`
+* [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - /bin, /boot, /dev, etc.
 
 
 ## Day 4
-
-
+* File Permission basics with `chmod` and `chown`.
+* Understanding the output of `ls -al`
+* Managing Processes with `ps`, `top`, `htop`, `grep`, `kill`
+* Signals (`man signal`)
+* Systemd and services with `systemctl`.
+* Networking basics with `ip` (and the older/deprecated `ifconfig`)
+* Log files and `/var`.
 * [Modern Unix Replacements](https://github.com/ibraheemdev/modern-unix)
 
 # Week 3
@@ -201,3 +199,4 @@ vs
 * [Computerphile - Unicode/UTF-8](https://www.youtube.com/watch?v=MijmeoH9LT4)
 * [ipcalc](http://jodies.de/ipcalc)
 * [CountryIPBlocks - Create an Access Control List - Select CIDR](https://www.countryipblocks.net/acl.php)
+* [ANSI Escape Codes for colors in terminals](https://en.wikipedia.org/wiki/ANSI_escape_code)
