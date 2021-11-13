@@ -81,6 +81,11 @@
 * Working with `jobs`: Ctrl-Z (suspend), `fg`, `bg`, `jobs`
 
 
+## Day 4
+
+
+* [Modern Unix Replacements](https://github.com/ibraheemdev/modern-unix)
+
 # Week 3
 
 ## Day 1
@@ -98,7 +103,7 @@
 * Making a file *executable* with `chmod +x`
 
 ### Supplementary Topics
-* [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+* [Awesome Cheatsheets - Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 * [GitHub Topics - Bash](https://github.com/topics/bash)
 * [Valve rm -rf bug](https://www.theregister.com/2015/01/17/scary_code_of_the_week_steam_cleans_linux_pcs/)
 
@@ -129,6 +134,7 @@
 * Networking Concepts: Modems, Routers, Switches
 * Internet Protocol (IPv4 & IPv6)
 * TCP & UDP (Connection vs Connectionless)
+* Ports
 * IP Subnetting Basics (History & Classful Addressing)
 * Signed vs Unsigned numbers
 * Integer Overflows (and the Gangnam Style viewcount bug)
@@ -138,7 +144,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-int main() {
+int main() {  // Press Ctrl-C to exit if it gets stuck looping forever.
   //int counter = 0;  // Example of how the counter should work without an overflow.
   //unsigned char counter = 0; // 8-bit. Resets to 0 when it overflows above 256.
   char counter = 0;  // 8-bit. Overflows to -128 when it overflows.
@@ -146,7 +152,7 @@ int main() {
   for (counter = 0; counter <= 300; counter++) {
     printf("Value: %d\n", counter);
 
-    // Sleep for 50milliseconds.
+    // Sleep for 50 milliseconds.
     usleep(50 * 1000);
   }
 }
@@ -178,7 +184,20 @@ vs
 00000020: 6c69 6e65 0d0a 6368 6172 6163 7465 7273  line..characters
 ```
 
-
+* DHCP vs Static IPs (Basics)
+* [Public vs Private IP Addresses - Private Network](https://en.wikipedia.org/wiki/Private_network)
+* [Network Address](https://en.wikipedia.org/wiki/Network_address)
+* [Default Gateway](https://en.wikipedia.org/wiki/Default_gateway)
+* [Broadcast Address](https://en.wikipedia.org/wiki/Broadcast_address)
+* Classless Inter-Domain Routing (CIDR) (/14, /24 etc)
+* Regional Internet Registries (RIRs, ARIN, RIPE, APNIC, AFRINIC, LACNIC)
+* [Internet Assigned Numbers Authority (IANA)](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)
+* Interpreting data from `whois`.
+* [Country-Code Top-Level Domains (ccTLDs)](https://en.wikipedia.org/wiki/Country_code_top-level_domain)
+* OSI Model & TCP Model Basics
+* DNS Basics (A-record, converts domain name to IP address)
 
 ### Supplementary Topics
 * [Computerphile - Unicode/UTF-8](https://www.youtube.com/watch?v=MijmeoH9LT4)
+* [ipcalc](http://jodies.de/ipcalc)
+* [CountryIPBlocks - Create an Access Control List - Select CIDR](https://www.countryipblocks.net/acl.php)
