@@ -128,6 +128,7 @@
 ### Core Topics
 
 * Base-10 (Decimal) Revision, Base-8 (Octal), Base-16 (Hexadecimal/Hex), and Base-2 (Binary)
+* Know how to count to 16 in binary and hex.
 * Converting between bases
 * ASCII
 * Networking Concepts: Modems, Routers, Switches
