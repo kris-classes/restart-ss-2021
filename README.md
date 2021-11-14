@@ -120,6 +120,7 @@
 * [DevHints.io Bash Cheat Sheet](https://devhints.io/bash)
 * [Cheat.sh - Cheat Sheets](https://cht.sh/)
 * [tldr - Better documentation for  commonly used apps](https://github.com/tldr-pages/tldr)
+* [The Art of Command Line - Master the Basics section](https://github.com/jlevy/the-art-of-command-line)
 
 
 ## Day 3
