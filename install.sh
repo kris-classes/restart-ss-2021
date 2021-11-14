@@ -30,4 +30,5 @@ echo "finished installing micro text editor"
 
 echo "Update .bashrc with /bin for our PATH"
 echo 'export PATH="$HOME/bin:$PATH"' >> "$HOME/.bashrc"
+source $HOME/.bashrc
 echo "Done updating PATH"
