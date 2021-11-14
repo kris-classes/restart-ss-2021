@@ -16,6 +16,10 @@ echo "installing net-tools"
 sudo yum install -y net-tools
 echo "finished installing net-tools"
 
+echo "installing sl"
+sudo yum install -y sl
+echo "finished installing sl"
+
 echo "installing micro text editor"
 curl https://getmic.ro | bash
 echo "finished installing micro text editor"
