@@ -158,7 +158,7 @@ int main() {  // Press Ctrl-C to exit if it gets stuck looping forever.
 ```
 
 ### Supplementary Topics
-* Software Bugs: Y2K, Knight Capital, 737 MAX, Mars Orbiter, 2038 Bug (Epochalypse)
+* Software Bugs: Y2K, Knight Capital, 787 Dreamliner overflow, 737 MAX, Mars Orbiter, 2038 Bug (Epochalypse)
 * What packets look like in `tcpdump`.
 * What files look like in a hex viewer (such as `xxd` or [hexyl](https://github.com/sharkdp/hexyl))
 * Basics of how a disassembler works.
