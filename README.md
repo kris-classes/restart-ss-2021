@@ -202,3 +202,19 @@ vs
 * [ipcalc](http://jodies.de/ipcalc)
 * [CountryIPBlocks - Create an Access Control List - Select CIDR](https://www.countryipblocks.net/acl.php)
 * [ANSI Escape Codes for colors in terminals](https://en.wikipedia.org/wiki/ANSI_escape_code)
+
+
+# Week 4
+
+## Day 1
+
+### Core Topics
+* Revision
+* More CIDR & Subnetting
+* VPC Basics
+
+
+### Supplementary Topics
+* [IPv4, CIDR, and VPC Subnets Made Simple - Ryan Schachte](https://www.youtube.com/watch?v=z07HTSzzp3o)
+* [Classless Inter-Domain Routing - Professor Messer](https://www.youtube.com/watch?v=rJXvFWY4Ak0)
+* [Subnetting Game - Practice Mode](https://www.subnetting.net/Subnetting.aspx?mode=practice)
