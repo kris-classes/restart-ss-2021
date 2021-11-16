@@ -218,3 +218,17 @@ vs
 * [IPv4, CIDR, and VPC Subnets Made Simple - Ryan Schachte](https://www.youtube.com/watch?v=z07HTSzzp3o)
 * [Classless Inter-Domain Routing - Professor Messer](https://www.youtube.com/watch?v=rJXvFWY4Ak0)
 * [Subnetting Game - Practice Mode](https://www.subnetting.net/Subnetting.aspx?mode=practice)
+
+
+## Day 2
+
+### Core Topics
+* Boolean Algebra Basics (AND, OR, and NOT)
+* More Networking & Subnetting
+* An IP address is just a 32-bit integer. e.g. http://2899908654/ and http://0xacd9182e/
+* Using `netstat` to show active connections.
+* Security - Network Discovery (nmap)
+
+
+### Supplementary Topics
+* None, just practice the labs on Canvas.
