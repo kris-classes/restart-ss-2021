@@ -228,7 +228,31 @@ vs
 * An IP address is just a 32-bit integer. e.g. http://2899908654/ and http://0xacd9182e/
 * Using `netstat` to show active connections.
 * Security - Network Discovery (nmap)
+* Router settings: DHCP, Subnets, Route Tables, NAT (Network Address Translation) & Ports
 
 
 ### Supplementary Topics
 * None, just practice the labs on Canvas.
+
+
+## Day 3
+
+### Core Topics
+* Cyber Kill Chain (Overview)
+* Vulnerabilities
+* Risk & Security Trade-offs
+* Responsible Disclosure
+* Bug Bounties & HackerOne
+* Zero-days / 0days.
+* APT Groups
+* White, grey, and black hats.
+* Red (Offense) & Blue (Defense) Teams
+* Social Engineering Attacks
+* VPC Subnetting Lab
+
+
+### Supplementary Topics
+* [ProcessExplorer - Understanding Functionality](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* [Zoom 0day w/ $200k bounty. RCE (remote code execution)](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
+* [PrintNightmare](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
+* [Social Engineering Passwords](https://www.youtube.com/watch?v=opRMrEfAIiI)
