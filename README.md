@@ -256,3 +256,50 @@ vs
 * [Zoom 0day w/ $200k bounty. RCE (remote code execution)](https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/)
 * [PrintNightmare](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
 * [Social Engineering Passwords](https://www.youtube.com/watch?v=opRMrEfAIiI)
+
+
+
+### Core Topics
+* CIA Triad - Confidentiality, Integrity, Availability
+* Encryption Basics. Classical ciphers (rot13/Caesar cipher), brief mention of AES.
+* At-rest vs In-transit
+* Hashing
+* Password Managers (BitWarden, LastPass, KeePass, etc)
+* Storing Passwords: Salting & Pepper. Why MD5 is bad, why bcrypt, scrypt, and Argon2 are good.
+* Identifying Fraudulent Emails - [FBI's mailserver hacked a few days prior](https://www.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/) 
+* MD5 and its problems (fast & collisions)
+
+
+### Supplementary Topics
+* [Create your own MD5 collisions - plane.jpg and ship.jpg](https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html))
+* [HaveIBeenPwned](https://haveibeenpwned.com/)
+
+
+# Week 5
+
+## Day 1
+
+### Core Topics
+* TryHackMe
+* Bruteforcing: icloud & instagram bugs
+* Estimation of time required to bruteforce all 10-char passwords
+* Analysis of an attack. Spammer using an open mailing form to send spam. Analyzing webserver logs to identify spammer.
+* Question about people who fall for scam apps. Techniques to identify scams.
+* [CVE](https://cve.mitre.org/cve/search_cve_list.html)
+* [ATT&CK](https://attack.mitre.org/) & [D3FEND](https://d3fend.mitre.org/)
+* [SecLists on GitHub - Leaked Passwords](https://github.com/danielmiessler/SecLists/)
+* Encoding / Decoding
+* How to create a hash of something in Python using `hashlib`
+
+## Day 2
+
+### Core Topics
+* Python - Writing a small password strength checking program
+* Control Flow (if/elif/else)
+* Functions
+* Modules
+
+
+### Supplementary Topics
+* [StackOverflow Developer Survey & Choosing Technology for your Career](https://insights.stackoverflow.com/survey/2021)
+* [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
