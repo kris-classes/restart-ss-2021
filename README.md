@@ -310,7 +310,7 @@ vs
 
 ### Core Topics
 
-* Python
+* More Python
 * Containers: Lists, Tuples, Dictionaries
 * Javascript/Node Basics: Variables/Lists (arrays) and surface similarity with Python
 * How minifying code saves bandwidth.
