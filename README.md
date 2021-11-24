@@ -304,3 +304,20 @@ vs
 ### Supplementary Topics
 * [StackOverflow Developer Survey & Choosing Technology for your Career](https://insights.stackoverflow.com/survey/2021)
 * [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+
+
+## Day 3
+
+### Core Topics
+
+* Python
+* Containers: Lists, Tuples, Dictionaries
+* Javascript/Node Basics: Variables/Lists (arrays) and surface similarity with Python
+* How minifying code saves bandwidth.
+* Debugging
+* Files (`open` and `close`)
+
+### Supplementary Topics
+
+* [Python Cheat Sheet - Basics, Flow Control, Functions, Lists](https://www.pythoncheatsheet.org)
+
