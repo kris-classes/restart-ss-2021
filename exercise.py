@@ -5,6 +5,9 @@ PSaaS
 A user can send a password and we tell them whether it is a good password or not.
 User can also send a word and we give them the MD5 hash.
 
+TODO: Check password against list of common passwords.
+TODO: Create a log file of clients who connected.
+
 '''
 
 import hashlib
@@ -30,7 +33,9 @@ print("Client connected\n", addr)
 
 # Receive data
 input_data = client.recv(1024)
-  
+
+# hash = hashlib.md5(b'password').hexdigest()
+
 # Hash the data using MD5
 # Send the response back
 client.send(b'input data received')
