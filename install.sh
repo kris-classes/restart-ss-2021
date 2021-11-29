@@ -32,6 +32,10 @@ echo "Update .bashrc with /bin for our PATH"
 echo 'export PATH="$HOME/bin:$PATH"' >> "$HOME/.bashrc"
 echo "Done updating PATH"
 
+echo "installing Python3"
+sudo yum install -y python3
+echo "finished installing Python3"
+
 
 echo 'alias l="ls -alh"' >> "$HOME/.bashrc"
 
