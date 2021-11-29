@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''
 Password strength as a Service
 PSaaS
@@ -35,9 +36,13 @@ print("Waiting for connections...")
 (client, addr) = server_socket.accept()
 print("Client connected\n", addr)
 
+# TODO: Create a log file of clients who connect. (write to a file)
+
 # Receive data
 input_data = client.recv(1024)
 print(f'Received data: {input_data}')
+
+# TODO: Check against common passwords if you like. (read from a file)
 
 # Hash the data using MD5
 print('Hashing user input.')
