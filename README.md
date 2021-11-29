@@ -321,3 +321,31 @@ vs
 
 * [Python Cheat Sheet - Basics, Flow Control, Functions, Lists](https://www.pythoncheatsheet.org)
 
+
+## Day 4
+
+### Core Topics
+* More Python
+* Loops (`for` & `while`)
+* `time.sleep(10)`
+* `random` library
+* `string` library
+* Python Conventions / Style Guide (PEP8)
+* Linting
+
+
+
+
+# Week 6
+
+## Day 1
+
+### Core Topics
+* More Python
+* Software Licenses
+* Markdown
+* Forking & Other GitHub features
+* `with` keyword in Python (Known as *context managers*) for opening/closing resources.
+* `socket` library basics and how network services communicate
+* File Descriptors and the `/proc/<process_id>/fd` directory.
+
