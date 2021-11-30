@@ -34,7 +34,6 @@ echo "Done updating PATH"
 
 echo "installing Python3"
 sudo yum install -y python3
-sudo ln -sf /usr/bin/python3 /usr/bin/python
 echo "finished installing Python3"
 
 
