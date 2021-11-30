@@ -349,3 +349,17 @@ vs
 * `socket` library basics and how network services communicate
 * File Descriptors and the `/proc/<process_id>/fd` directory.
 
+
+## Day 2
+
+### Core Topics
+* More Python
+* `/etc/hosts` and `/etc/resolv.conf`
+* `os` module and dangers of using `os.system(...)`
+* Virtual Environments (`venv` module)
+* JSON basics
+* Exception Basics - Creating and raising a custom exception
+* `netstat` Basics
+
+### Supplementary Topics
+* [Python Module Of The Week - PyMOTW](https://pymotw.com/3/)
