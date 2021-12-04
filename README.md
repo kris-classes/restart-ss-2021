@@ -363,3 +363,31 @@ vs
 
 ### Supplementary Topics
 * [Python Module Of The Week - PyMOTW](https://pymotw.com/3/)
+
+
+## Day 3
+
+### Core Topics
+* More Python & how network services work
+* More JSON
+* Using [FastAPI](https://fastapi.tiangolo.com/) to create an API
+* DevOps
+
+### Supplementary Topics
+* [HackerNews](https://news.ycombinator.com)
+* [GitHub Student Developer Pack](https://education.github.com/pack) - Link GitHub with your @myunitec.ac.nz email address.
+* [roadmap.sh](https://roadmap.sh)
+
+
+## Day 4
+
+### Core Topics
+* Concurrency/threading basics
+* Compiling basics (download, unzip, ./configure, make, run) - Compiled Python & redis
+* Software Testing basics with `pytest`. Brief example of test driven development
+* Database Basics (NoSQL)
+* Basics of using [redis](https://redis.io)
+
+
+### Supplementary Topics
+* [Try redis](https://try.redis.io)
