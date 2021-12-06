@@ -391,3 +391,17 @@ vs
 
 ### Supplementary Topics
 * [Try redis](https://try.redis.io)
+
+
+# Week 7
+
+## Day 1
+
+### Core Topics
+* SQL Basics
+* Data Manipulation Language (DML): `SELECT`, `FROM`, `WHERE`, `ORDER BY`, Comments
+* `INNER JOIN` basics
+* Date ranges with `BETWEEN`
+
+### Supplementary Topics
+* To be added
