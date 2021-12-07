@@ -405,3 +405,18 @@ vs
 
 ### Supplementary Topics
 * [StackShare.io](https://stackshare.io/)
+
+
+## Day 2
+
+### Core Topics
+* Using SQL with [SQLite](https://sqlite.org/famous.html) (Vocareum labs were down)
+* [SQLite Browser](https://sqlitebrowser.org/)
+* [Sakila Database File - SQLite version](https://github.com/krp/sakila-sqlite) - Download the `sakila.db` file.
+* Making queries with Python's `sqlite3` module
+* Creating an API that talks to a database with FastAPI.
+
+
+### Supplementary Topics
+* None today.
+
