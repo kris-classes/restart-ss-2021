@@ -420,3 +420,17 @@ vs
 ### Supplementary Topics
 * None today.
 
+
+## Day 3
+### Core Topics
+* Entity-Relationship Diagrams
+* Database Diagrams (and relationships)
+* Database Normalization
+* ACID
+* SQL: `INSERT`
+* Amazon RDS (Brief mention)
+* Continued building API with `FastAPI` & `SQLite` with `sakila` database.
+
+### Supplementary Topics
+* [sqldbm.com](https://sqldbm.com)
+* [dbdiagram.io](https://dbdiagram.io)
