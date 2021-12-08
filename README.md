@@ -418,7 +418,7 @@ vs
 
 
 ### Supplementary Topics
-* None today.
+* None today. See `main.py` in this repo.
 
 
 ## Day 3
