@@ -434,3 +434,16 @@ vs
 ### Supplementary Topics
 * [sqldbm.com](https://sqldbm.com)
 * [dbdiagram.io](https://dbdiagram.io)
+
+
+## Day 4
+### Core Topics
+* OOP Basics
+* Amazon RDS
+* MariaDB & PostgreSQL
+* Finishing up API server (deploy to EC2)
+* Using `scp`.
+
+
+### Supplementary Topics
+* [Design Pattern Basics](https://refactoring.guru/design-patterns)
