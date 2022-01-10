@@ -447,3 +447,15 @@ vs
 
 ### Supplementary Topics
 * [Design Pattern Basics](https://refactoring.guru/design-patterns)
+
+
+# Week 8
+## Day 1
+### Core Topics
+* Assignment Review
+* Bad Bugs that occurred over the break: Y2K22, Log4Shell, CVE-2021-39659 (Emergency Services Broken on Android devices).
+* Containers
+* Docker (Basics)
+
+### Supplementary Topics
+* To be added.
