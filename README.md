@@ -458,4 +458,11 @@ vs
 * Docker (Basics)
 
 ### Supplementary Topics
-* To be added.
+* [LiveOverflow - Log4Shell](https://www.youtube.com/watch?v=w2F67LbEtnk)
+
+
+## Day 2
+### Core Topics
+* Cloud Adoption Framework
+* Fact Finding Group Exercise
+* Well Architected Framework
