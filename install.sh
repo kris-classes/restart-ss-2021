@@ -20,6 +20,10 @@ echo "installing sl"
 sudo yum install -y sl
 echo "finished installing sl"
 
+echo "installing nmap-ncat"
+sudo yum install -y nmap-ncat
+echo "finished installing nmap-ncat" | cowsay
+
 echo "installing micro text editor"
 curl https://getmic.ro | bash
 cd
@@ -40,3 +44,5 @@ echo "finished installing Python3"
 echo 'alias l="ls -alh"' >> "$HOME/.bashrc"
 
 echo "Run the command 'source $HOME/.bashrc' to update your PATH"
+
+
