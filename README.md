@@ -490,4 +490,4 @@ vs
 * HTTP GET/POST revision & [Insomnia REST](https://insomnia.rest/)
 
 ### Supplementary Topics
-* [iptables basics](https://www.andreafortuna.org/2019/05/08/iptables-a-simple-cheatsheet/)
+* [iptables Cheatsheet](https://www.andreafortuna.org/2019/05/08/iptables-a-simple-cheatsheet/)
