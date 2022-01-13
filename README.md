@@ -465,7 +465,7 @@ vs
 ### Core Topics
 * Cloud Adoption Framework
 * Fact Finding Group Exercise
-* Well Architected Framework
+* [Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 
 ### Supplementary Topics
 * [Well Architected Labs](https://wellarchitectedlabs.com/) - NOTE: Requires AWS Account for most of them so use after the course.
@@ -475,11 +475,11 @@ vs
 ### Core Topics
 * Assignment Help
 * Cloud Practitioner Exam Prep
-* Anki
-* S3 & AWS CLI Basics
+* [Anki](https://apps.ankiweb.net/)
+* Using IAM, S3 & AWS CLI Basics
 
 ### Supplementary Topics
-* To be added
+* [awscli examples](https://github.com/aws/aws-cli/blob/develop/awscli/examples/)
 
 
 ## Day 4
@@ -487,4 +487,7 @@ vs
 * ssh, scp, rsync & public key cryptography revision
 * iptables basics
 * More S3 & awscli
-* HTTP GET/POST revision & Insomnia REST GUI
+* HTTP GET/POST revision & [Insomnia REST](https://insomnia.rest/)
+
+### Supplementary Topics
+* [iptables basics](https://www.andreafortuna.org/2019/05/08/iptables-a-simple-cheatsheet/)
