@@ -469,3 +469,22 @@ vs
 
 ### Supplementary Topics
 * [Well Architected Labs](https://wellarchitectedlabs.com/) - NOTE: Requires AWS Account for most of them so use after the course.
+
+
+## Day 3
+### Core Topics
+* Assignment Help
+* Cloud Practitioner Exam Prep
+* Anki
+* S3 & AWS CLI Basics
+
+### Supplementary Topics
+* To be added
+
+
+## Day 4
+### Core Topics
+* ssh, scp, rsync & public key cryptography revision
+* iptables basics
+* More S3 & awscli
+* HTTP GET/POST revision & Insomnia REST GUI
