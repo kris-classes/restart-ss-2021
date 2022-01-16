@@ -453,7 +453,7 @@ vs
 ## Day 1
 ### Core Topics
 * Assignment Review
-* Bad Bugs that occurred over the break: [Y2K22](https://arstechnica.com/information-technology/2022/01/exchange-server-bug-gets-a-fix-after-ruining-admins-new-years-plans/), [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell), [CVE-2021-39659 (Emergency Services Broken on Android devices)]https://arstechnica.com/gadgets/2022/01/google-fixes-nightmare-android-bug-that-stopped-user-from-calling-911/)
+* Bad Bugs that occurred over the break: [Y2K22](https://arstechnica.com/information-technology/2022/01/exchange-server-bug-gets-a-fix-after-ruining-admins-new-years-plans/), [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell), [CVE-2021-39659 (Emergency Services Broken on Android devices)](https://arstechnica.com/gadgets/2022/01/google-fixes-nightmare-android-bug-that-stopped-user-from-calling-911/)
 * Containers
 * Docker (Basics)
 
