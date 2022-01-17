@@ -492,3 +492,16 @@ vs
 ### Supplementary Topics
 * [iptables Cheatsheet](https://www.andreafortuna.org/2019/05/08/iptables-a-simple-cheatsheet/)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer/)
+
+
+# Week 9
+### Core Topics
+* PaaS Basics & ElasticBeanstalk
+* More Docker
+* Windows Registry
+* [Proxy Servers](https://en.wikipedia.org/wiki/Proxy_server)
+* Nginx & [Reverse Proxies](https://en.wikipedia.org/wiki/Reverse_proxy)
+
+### Supplementary Topics
+* [Burp Suite](https://portswigger.net/burp)
+* [Dec 2021 WebServer Survey](https://news.netcraft.com/archives/2021/12/22/december-2021-web-server-survey.html)
