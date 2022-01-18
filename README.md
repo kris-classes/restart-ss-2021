@@ -495,6 +495,8 @@ vs
 
 
 # Week 9
+
+## Day 1
 ### Core Topics
 * PaaS Basics & ElasticBeanstalk
 * More Docker
@@ -505,3 +507,18 @@ vs
 ### Supplementary Topics
 * [Burp Suite](https://portswigger.net/burp)
 * [Dec 2021 WebServer Survey](https://news.netcraft.com/archives/2021/12/22/december-2021-web-server-survey.html)
+
+
+## Day 2
+### Core Topics
+* DNS in depth
+* Registrars, Root Servers, Hosting, Resolvers
+* ccTLD, gTLDs, Internationalized Domain Names & issues with them
+* `whois` & `dig` (again)
+* Zone Files (basics)
+* DNS Based Load Balancing (Round-Robin DNS)
+* NS, A, AAAA, MX, CNAME, SOA, TXT, SPF, PTR records
+* Load Balancer Types (Application, Network), more detail tomorrow
+
+### Supplementary Topics
+* [CloudFlare Learning - DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
