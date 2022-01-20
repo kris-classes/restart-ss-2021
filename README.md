@@ -522,3 +522,19 @@ vs
 
 ### Supplementary Topics
 * [CloudFlare Learning - DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
+
+
+## Day 3
+### Core Topics
+* Understanding metrics for scaling
+* Vertical vs Horizontal Scaling
+* EC2 Instance Types
+* DB Replicas & Sharding
+* Route53
+
+
+# Day 4
+### Core Topics
+* More Git
+* Container Basics (ECS, ECR, Fargate)
+* Lambda Basics
