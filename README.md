@@ -538,3 +538,17 @@ vs
 * More Git
 * Container Basics (ECS, ECR, Fargate)
 * Lambda Basics
+
+
+# Week 10
+## Day 1
+### Core Topics
+* DNS debugging case study
+* Load balancer & other AWS services pricing
+* Popular/common DockerHub images
+* More containers / Docker
+* HTML/CSS Basics
+
+
+### Supplementary Topics
+* [DockerCheatSheet.com](https://dockercheatsheet.com/)
