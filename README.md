@@ -562,3 +562,4 @@ vs
 
 ### Supplementary Topics
 * [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
+* [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
