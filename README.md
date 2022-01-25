@@ -549,6 +549,16 @@ vs
 * More containers / Docker
 * HTML/CSS Basics
 
-
 ### Supplementary Topics
 * [DockerCheatSheet.com](https://dockercheatsheet.com/)
+
+
+## Day 2
+### Core Topics
+* Amazon Aurora Basics
+* [Docker Compose](https://docs.docker.com/compose/) & container management/orchestration
+* `docker-compose.yml` file syntax (services, ports, images)
+* Getting services/containers to talk to each other
+
+### Supplementary Topics
+* [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
