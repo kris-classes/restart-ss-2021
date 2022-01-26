@@ -573,6 +573,7 @@ vs
 * More Docker Compose
 * ElastiCache
 * Elastic Block Storage (EBS) with EC2
+* EC2 Instance Stores vs EBS
 * Creating/Attaching
 * Filesystem Basics, Mounting/Unmounting
 * `lsblk`, `xxd /dev/xvdf | less`, `parted -l`, `mkdir /mnt/mydisk`, create files on disk, `umount /mnt/mydisk`
