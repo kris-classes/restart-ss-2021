@@ -563,3 +563,17 @@ vs
 ### Supplementary Topics
 * [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
 * [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+
+
+## Day 3
+### Core Topics
+* More Docker Compose
+* ElastiCache
+* Elastic Block Storage (EBS) with EC2
+* Creating/Attaching
+* Filesystem Basics, Mounting/Unmounting
+* `lsblk`, `xxd /dev/xvdf | less`, `parted -l`, `mkdir /mnt/mydisk`, create files on disk, `umount /mnt/mydisk`
+
+
+### Supplementary Topics
+* [ElastiCache](https://aws.amazon.com/elasticache/)
