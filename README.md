@@ -559,10 +559,13 @@ vs
 * [Docker Compose](https://docs.docker.com/compose/) & container management/orchestration
 * `docker-compose.yml` file syntax (services, ports, images)
 * Getting services/containers to talk to each other
+* Using a cache
+
 
 ### Supplementary Topics
 * [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
 * [Troy Hunt - How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+* [redis-py Basics](https://redis.readthedocs.io/en/stable/)
 
 
 ## Day 3
