@@ -572,12 +572,29 @@ vs
 ### Core Topics
 * More Docker Compose
 * ElastiCache
-* Elastic Block Storage (EBS) with EC2
+* Elastic Block Store (EBS) with EC2
 * EC2 Instance Stores vs EBS
 * Creating/Attaching
 * Filesystem Basics, Mounting/Unmounting
-* `lsblk`, `xxd /dev/xvdf | less`, `parted -l`, `mkdir /mnt/mydisk`, create files on disk, `umount /mnt/mydisk`
+* `lsblk`, `xxd /dev/xvdf | less`, `parted -l`, `mkdir /mnt/mydisk`, `mount /dev/xvdf /mnt/mydisk`, `df -h`, create files on disk, `umount /mnt/mydisk`
 
 
 ### Supplementary Topics
 * [ElastiCache](https://aws.amazon.com/elasticache/)
+
+
+## Day 4
+### Core Topics
+* Storage Types (SSD, Magnetic, Tape)
+* [EBS Volume Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html) 
+* More on Filesystem & Types
+* Network File Storage (NFS) Basics & Elastic File System (EFS)
+* Block Storage vs Object Storage
+* More S3
+* Glacier & Archival
+
+
+## Supplementary Topics
+* [AWS S3 CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3.html)
+* [AWS Glacier via CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-glacier.html)
+* [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
