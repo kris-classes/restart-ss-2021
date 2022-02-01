@@ -598,3 +598,12 @@ vs
 * [AWS S3 CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3.html)
 * [AWS Glacier via CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-glacier.html)
 * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
+
+# Week 11
+## Day 1
+### Core Topics
+* Group Exercise review of AWS products for Compute, Storage, Databases, Security, IoT, and Frontend/Web/Mobile
+* Intro to CloudWatch
+* Debugging & benefits of logging (example with 2degrees topups & payment providers)
+* CloudTrail basics
