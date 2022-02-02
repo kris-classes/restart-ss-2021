@@ -607,3 +607,10 @@ vs
 * Intro to CloudWatch
 * Debugging & benefits of logging (example with 2degrees topups & payment providers)
 * CloudTrail basics
+
+## Day 2
+### Core Topics
+* Gathering metrics w/ CloudWatch (CPU, Memory, Storage usage)
+* Security Groups & Firewall revision
+* Web-server logs & deeper dive into network traffic with [Wireshark](https://www.wireshark.org/) (basics)
+* Monitoring Infrastructure Lab (CloudWatch)
