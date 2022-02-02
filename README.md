@@ -614,3 +614,6 @@ vs
 * Security Groups & Firewall revision
 * Web-server logs & deeper dive into network traffic with [Wireshark](https://www.wireshark.org/) (basics)
 * Monitoring Infrastructure Lab (CloudWatch)
+
+### Supplementary Topics
+* [Cloud Foundations Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
