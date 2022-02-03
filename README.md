@@ -617,3 +617,14 @@ vs
 
 ### Supplementary Topics
 * [Cloud Foundations Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
+
+
+## Day 3
+### Core Topics
+* EC2 Launch templates
+* Infrastructure as Code: [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html), [Terraform](https://www.terraform.io/), [Pulumi](https://www.pulumi.com/)
+* CloudTrail Lab & Log Management/Analysis
+
+### Supplementary Topics
+* [Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* Useful services used via APIs: [Twilio](https://www.twilio.com/), [Sendgrid](https://sendgrid.com/), [Auth0](https://auth0.com/), [Sentry](https://sentry.io/welcome/)
