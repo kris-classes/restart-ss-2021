@@ -601,6 +601,8 @@ vs
 
 
 # Week 11
+## Public Holiday - No Class on 1st Day of Week
+
 ## Day 1
 ### Core Topics
 * Group Exercise review of AWS products for Compute, Storage, Databases, Security, IoT, and Frontend/Web/Mobile
@@ -628,3 +630,8 @@ vs
 ### Supplementary Topics
 * [Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * Useful services used via APIs: [Twilio](https://www.twilio.com/), [Sendgrid](https://sendgrid.com/), [Auth0](https://auth0.com/), [Sentry](https://sentry.io/welcome/)
+
+
+# Week 12
+## Waitangi Day - Again no class
+
