@@ -633,5 +633,20 @@ vs
 
 
 # Week 12
-## Waitangi Day - Again no class
+## Day 1 Waitangi Day - Again no class
 
+## Days 2 & 3
+### Core Topics
+* Knowledge Checks
+* Practice Preparation for Cloud Practitioner Exam
+
+## Day 4
+### Core Topics
+* Student Live Demos of awscli & AWS services
+* Test
+
+
+## Day 5
+### Core Topics
+* Careers & Industry Event
+* End of semester
