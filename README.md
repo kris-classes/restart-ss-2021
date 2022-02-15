@@ -650,3 +650,7 @@ vs
 ### Core Topics
 * Careers & Industry Event
 * End of semester
+
+### Supplementary Topics
+* [PDF - Cloud Practitioner Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+* [AWS Skill Builder - Cloud Foundations Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan)
